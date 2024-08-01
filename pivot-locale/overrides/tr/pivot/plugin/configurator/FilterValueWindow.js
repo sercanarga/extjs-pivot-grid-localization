@@ -1,6 +1,6 @@
 Ext.define('Ext.locale.tr.pivot.plugin.configurator.FilterValueWindow',{
     override: 'Ext.pivot.plugin.configurator.FilterValueWindow',
 
-    titleText:      'Değer filtre ({0})',
-    fieldText:      'Öğeleri göster'
+    titleText:      'Değer filtresi ({0})',
+    fieldText:      'Şu öğeleri göster'
 });

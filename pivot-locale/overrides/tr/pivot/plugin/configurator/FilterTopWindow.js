@@ -1,7 +1,7 @@
 Ext.define('Ext.locale.tr.pivot.plugin.configurator.FilterTopWindow',{
     override: 'Ext.pivot.plugin.configurator.FilterTopWindow',
 
-    titleText:      'En yüksek 10 sorgu ({0})',
+    titleText:      'İlk 10 filtresi ({0})',
     fieldText:      'Göster',
-    sortResultsText:'Sonuç sırala'
+    sortResultsText:'Sonuçları sırala'
 });
